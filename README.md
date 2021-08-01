@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jatin Rathee</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Pikkal Studio](http://pikkalstudio.com/)
-
 - 🌱 I’m currently learning **Node and Typescript**
 
 - 👯 I’m looking to collaborate on **JS projects.**
